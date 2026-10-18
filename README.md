@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System — MySQL
+ # 🏥 Hospital Management System — MySQL
 
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![SQL](https://img.shields.io/badge/Language-SQL-orange)
